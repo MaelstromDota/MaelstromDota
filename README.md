@@ -1,4 +1,3 @@
-### About me
 ```json
 {
 	"nickname": "SniperX",
